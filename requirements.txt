@@ -1,0 +1,13 @@
+# Dependências Obrigatórias
+numpy>=1.19.0
+
+# Dependências Opcionais
+
+# Para Abordagem 1 (WBF)
+ensemble-boxes>=1.0.0
+
+# Para Visualização
+matplotlib>=3.3.0
+
+# Para análise de dados (opcional)
+pandas>=1.1.0
